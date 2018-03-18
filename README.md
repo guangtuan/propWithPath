@@ -5,6 +5,12 @@ javaScript get prop with path of an object
 
 This is a util function to access value of an object with path like `propName`, `arrayPropName[arrayIndex]`.
 
+### test
+
+```bash
+npm install && npm run test
+```
+
 ### usage
 
 ```javaScript
